@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import FrontPage from './Component4/FrontPage';
-import SecondPage from './Component4/SecondPage';
+import FrontPage from './Component/FrontPage';
+import SecondPage from './Component/SecondPage';
 
 function App() {
   const [gameStarted,setGameStarted]=useState(false);
