@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    align-items: center;
+}
+h1{
+    font-size: 80px;
+}
+img{
+    width:50%;
+}
+.start-btn{
+    padding:12px 22px;
+    border-radius: 10px;
+    border: none;
+    margin-top:20px;
+    margin-left:150px;
+    background-color:gray;
+    font-weight: 600;
+    color:white;
+}

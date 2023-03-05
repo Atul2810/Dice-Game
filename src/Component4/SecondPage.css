@@ -1,0 +1,52 @@
+
+.box{
+    width:50%;
+    margin-left:30%;
+}
+.dice-num{
+    margin-top:30px;
+}
+.num-btn{
+    padding:10px 16px;
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+    font-size:22px;
+    margin-right:4%;
+}
+.dice-img{
+    margin-top:7%;
+    margin-left:20%;
+    width:40%;
+}
+.dice-img img{
+    width:35%;
+}
+.dice-img p{
+  font-weight: 600;
+}
+
+.score{
+    margin-left:20%;
+    margin-top:2%;
+}
+.score p{
+    font-size: 60px;
+    margin-left:35px;
+    font-weight: 700;
+    color:green;
+}
+.score h2{
+    margin-top:5%;
+    margin-left: -20px;
+    font-size: 35px;
+}
+.score button{
+    margin-top:6%;
+   padding:12px 22px;
+   background-color: gray;
+   color:white;
+   border-radius: 10px;
+   border: none;
+   font-weight: 600;
+}
